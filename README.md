@@ -1,7 +1,7 @@
 # Auth-app
 Basic Authentication app in Golang 
 
-#setup
+# setup
 Enter the following command to setup the envirooment and neccessary libraries 
 1. go get -u gorm.io/gorm
 2. go get -u gorm.io/driver/postgres
